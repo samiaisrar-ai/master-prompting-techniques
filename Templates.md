@@ -15,20 +15,14 @@ Use these templates as-is or modify them according to your project needs.
 - **Simple Instruction Prompt**  
 Write a 100-word summary of the following text: [Insert text here].
 
-markdown
-Copy code
 
 - **Question Answering Prompt**  
 Answer the following question clearly and concisely: [Insert question here].
 
-markdown
-Copy code
 
 - **Rewrite Prompt**  
 Rewrite the following paragraph in simple, easy-to-understand language: [Insert paragraph].
 
-yaml
-Copy code
 
 ---
 
@@ -39,20 +33,14 @@ Copy code
 You are a professional digital marketer with 10 years of experience.
 Create a content strategy for an e-commerce brand targeting Gen Z.
 
-markdown
-Copy code
 
 - **Teacher Persona**  
 You are a high school teacher. Explain the concept of [topic] to a student in simple terms with examples.
 
-markdown
-Copy code
 
 - **Customer Support Agent Persona**  
 You are a customer support agent. Respond politely and helpfully to this customer inquiry: [Insert query].
 
-yaml
-Copy code
 
 ---
 
@@ -64,8 +52,6 @@ Step 2: Summarize each topic in 2-3 sentences.
 Step 3: Generate actionable tips from each topic.
 Step 4: Compile everything into a concise report.
 
-yaml
-Copy code
 
 ---
 
@@ -75,12 +61,9 @@ Copy code
 If the audience is beginner, explain step-by-step.
 If the audience is advanced, provide concise expert tips.
 
-Copy code
 If the input is longer than 500 words, summarize it in 3 paragraphs.
 Else, provide a bullet point summary.
 
-yaml
-Copy code
 
 ---
 
@@ -90,20 +73,14 @@ Copy code
 - **Blog Post Template**  
 Write a blog post about [topic] in a [friendly/professional/luxury] tone, around [word count] words. Include an introduction, 3 main points with examples, and a conclusion.
 
-markdown
-Copy code
 
 - **Social Media Caption Template**  
 Create 5 engaging Instagram captions for [product/service]. Include emojis and hashtags relevant to [industry/niche].
 
-markdown
-Copy code
 
 - **Email Marketing Template**  
 Write a persuasive email promoting [product/service]. Use a compelling subject line, a hook, body text highlighting benefits, and a clear CTA.
 
-yaml
-Copy code
 
 ---
 
@@ -118,15 +95,12 @@ Write a summary report in professional tone.
 
 Provide actionable recommendations based on the analysis.
 
-Copy code
 Create 10 variations of ad copy for [product].
 
 Evaluate which copy is most persuasive using AI scoring.
 
 Output final selected ad copy in ready-to-use format.
 
-yaml
-Copy code
 
 ---
 
@@ -135,14 +109,10 @@ Copy code
 
 Write a persuasive product description in a luxury tone, exactly 100 words, using bullet points for features and benefits.
 
-Copy code
 Summarize the following article in casual language suitable for teenagers. Use short paragraphs and headings.
 
-Copy code
 Convert this list of instructions into a professional step-by-step guide for a business audience.
 
-yaml
-Copy code
 
 ---
 
@@ -151,11 +121,8 @@ Copy code
 
 After generating the report, verify all facts and numbers. Flag any inconsistencies or unrealistic suggestions.
 
-Copy code
 Check the grammar, tone, and readability of the following text. Provide suggestions for improvement if needed.
 
-yaml
-Copy code
 
 ---
 
